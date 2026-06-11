@@ -1,0 +1,3 @@
+securisation app coté sever "thymleaf" par oauth 2 "google/github/keycloak" =>client
+cree un inventory-service " Micro-service/products" et securiser par "keycloak" =>resource serve
+securisation app coté client "angular" et comment keycloak ca marche avec angular
